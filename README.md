@@ -1,0 +1,3 @@
+- 👋 Hi there, i have been doing web design (HTML,CSS) for over 1.5 years and started JavaScript and all its subtleties
+- 👀 I’m interested in front-end development
+- 🌱 And currently learning JS, React
